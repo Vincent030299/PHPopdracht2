@@ -1,2 +1,2 @@
-# PHPopdracht2
-Dit is de tweede opdracht van php.
+# Whiskeydoos
+my personal scotchbox with phpmyadmin, vbguest and bootstrap
